@@ -1,0 +1,23 @@
+User-agent: *
+Allow: /
+
+# AI 检索/助手爬虫：显式放行，便于被 AI 搜索抓取引用
+User-agent: GPTBot
+Allow: /
+
+User-agent: ClaudeBot
+Allow: /
+
+User-agent: PerplexityBot
+Allow: /
+
+User-agent: Bytespider
+Allow: /
+
+User-agent: Google-Extended
+Allow: /
+
+User-agent: Baiduspider
+Allow: /
+
+Sitemap: https://dapeng3369-jpg.github.io/sitemap.xml

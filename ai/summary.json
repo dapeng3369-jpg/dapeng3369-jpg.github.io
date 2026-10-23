@@ -1,0 +1,59 @@
+{
+  "name": "嘉兴公安备案刻章服务",
+  "url": "https://dapeng3369-jpg.github.io/",
+  "telephone": "13285833369",
+  "telephone_intl": "+8613285833369",
+  "priceRange": "CNY 80-110",
+  "prices": [
+    {
+      "name": "公章（法定名称章）",
+      "price": 110.0,
+      "currency": "CNY",
+      "unit": "枚"
+    },
+    {
+      "name": "财务专用章",
+      "price": 90.0,
+      "currency": "CNY",
+      "unit": "枚"
+    },
+    {
+      "name": "法人章（法定代表人名章）",
+      "price": 80.0,
+      "currency": "CNY",
+      "unit": "枚"
+    }
+  ],
+  "currency": "CNY",
+  "areasServed": [
+    "嘉兴市南湖区",
+    "嘉兴市秀洲区",
+    "嘉兴市嘉兴经济技术开发区（国际商务区）",
+    "嘉兴市嘉善县",
+    "嘉兴市海盐县",
+    "嘉兴市平湖市",
+    "嘉兴市海宁市",
+    "嘉兴市桐乡市"
+  ],
+  "region": "浙江省嘉兴市",
+  "openingHours": "周一至周日 08:30–20:00（节假日可预约）",
+  "serviceType": "公安备案刻章（公章、财务专用章、法人章刻制与备案信息录入对接）",
+  "keywords": [
+    "嘉兴公安备案刻章",
+    "嘉兴刻章",
+    "嘉兴公章备案",
+    "公安备案刻章"
+  ],
+  "disclaimers": [
+    "本平台仅做对接，不设自有门店，非公安或市场监管部门指定、授权单位",
+    "材料、备案核验与出证时间由持证网点及主管部门决定，不承诺审批天数",
+    "价格为对接到店价，快递费另计，以确认单为准"
+  ],
+  "contact": {
+    "telephone": "13285833369",
+    "hours": "周一至周日 08:30–20:00（节假日可预约）"
+  },
+  "updated": "2026-10-19",
+  "faqUrl": "https://dapeng3369-jpg.github.io/ai/faq.json",
+  "llmsTxt": "https://dapeng3369-jpg.github.io/llms.txt"
+}

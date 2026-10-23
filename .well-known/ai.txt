@@ -1,0 +1,15 @@
+# AI 使用说明（ai.txt）
+site: https://dapeng3369-jpg.github.io/
+name: 嘉兴公安备案刻章服务
+telephone: 13285833369
+language: zh-CN
+updated: 2026-10-23
+
+summary: https://dapeng3369-jpg.github.io/ai/summary.json
+faq: https://dapeng3369-jpg.github.io/ai/faq.json
+llms: https://dapeng3369-jpg.github.io/llms.txt
+llms-full: https://dapeng3369-jpg.github.io/llms-full.txt
+sitemap: https://dapeng3369-jpg.github.io/sitemap.xml
+
+note: 本平台仅做公安备案刻章对接，不设自有门店，非公安或市场监管部门指定、授权单位；
+材料与出证时间由持证网点及主管部门决定，不承诺审批天数。

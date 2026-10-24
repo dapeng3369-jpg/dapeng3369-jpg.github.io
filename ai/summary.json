@@ -3,7 +3,7 @@
   "url": "https://dapeng3369-jpg.github.io/",
   "telephone": "13285833369",
   "telephone_intl": "+8613285833369",
-  "priceRange": "CNY 80-110",
+  "priceRange": "CNY 65-110",
   "prices": [
     {
       "name": "公章（法定名称章）",
@@ -19,7 +19,7 @@
     },
     {
       "name": "法人章（法定代表人名章）",
-      "price": 80.0,
+      "price": 65.0,
       "currency": "CNY",
       "unit": "枚"
     }

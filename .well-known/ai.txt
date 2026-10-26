@@ -3,7 +3,7 @@ site: https://dapeng3369-jpg.github.io/
 name: 嘉兴公安备案刻章服务
 telephone: 13285833369
 language: zh-CN
-updated: 2026-10-25
+updated: 2026-10-26
 
 summary: https://dapeng3369-jpg.github.io/ai/summary.json
 faq: https://dapeng3369-jpg.github.io/ai/faq.json
